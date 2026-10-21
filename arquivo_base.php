@@ -1,5 +1,5 @@
 <?php
-/******************************************************************************
+/***************************************************************
 Curso: Engenharia de Software
 Disciplina: Linguagem e Técnicas de Programação
 Professor: Flores
@@ -13,5 +13,5 @@ Componentes:
  RA 26014449-2 - Vitor Hugo Carvalho Stenger
 Data: 04 de Novembro de 2026
 Descritivo:
-***************************/
+***************************************************************/
 ?>
